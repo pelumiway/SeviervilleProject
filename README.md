@@ -8,7 +8,7 @@ Imported a vector layer to show Flood way in blue color using FEMA dataset on th
 Inserted flood categories (Red, Pink, Dark Blue) to show the areas that can be affected badly and have a high chance of flooding around the water areas. This data is based on the US Census dataset.
 Imported a vector layer in Orange color to show Flood data of the affected areas over the last 100 years in the way of water flowing.
 Imported a vector layer to show city limits in already created flood disaster map to show the city boundaries.
-![image](https://github.com/user-attachments/assets/1112bdf9-25e6-4210-8398-33a6c88659ca)
+
 
 
 
